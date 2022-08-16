@@ -1,9 +1,9 @@
 # ProjectRE 
 GameDesignIII \
-631310275	ชนากานต์ นรินทร์นอก \
-631310279	นพวรรณ โลหะพิทักษ์ \
-631310437	ณัฐสิทธิ์ ปิยะสอน \
-631310521	วิศว อยู่ดี \
+631310275	ชนากานต์ นรินทร์นอก Artist \
+631310279	นพวรรณ โลหะพิทักษ์ Artist \
+631310437	ณัฐสิทธิ์ ปิยะสอน Game Dev \
+631310521	วิศว อยู่ดี Game Dev \
 Unity 2021.3.7f1 \
 Theme : Lowpoly,Horror,Sci-fi,Fixed Camera,Resident evil 1 like \
 Game : Survival Horror \
