@@ -52,11 +52,11 @@ public class TankControls : MonoBehaviour
 
                     if (isRunning == false || backwardsCheck == true)
                     {
-                        verticalMove = Input.GetAxis("Vertical") * Time.deltaTime * 4;
+                        verticalMove = Input.GetAxis("Vertical") * Time.deltaTime * 40;
                     }
                     if (isRunning == true && backwardsCheck == false)
                     {
-                        verticalMove = Input.GetAxis("Vertical") * Time.deltaTime * 12;
+                        verticalMove = Input.GetAxis("Vertical") * Time.deltaTime * 120;
                     }
 
                     horizontalMove = Input.GetAxis("Horizontal") * Time.deltaTime * 150;
