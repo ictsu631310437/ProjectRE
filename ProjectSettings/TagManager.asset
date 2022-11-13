@@ -4,8 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Flesh
-  - Water
+  - CinemachineTarget
   layers:
   - Default
   - TransparentFX
@@ -15,17 +14,17 @@ TagManager:
   - UI
   - 
   - 
-  - Zombie
-  - Interact
-  - BodyPart
-  - PlayerBody
-  - PlayerInvisible
-  - PostProcessing Main
-  - PostProcessing Arms
-  - CamExamination
-  - CamWeapon
-  - Ladder
-  - CamSecondExamination
+  - Character
+  - Ground
+  - 
+  - 
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 

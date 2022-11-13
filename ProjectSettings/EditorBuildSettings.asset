@@ -5,27 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Playground.unity
+    guid: e9017d5f96b9f09489b4b37e1d6eb914
   - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/MainMenu.unity
-    guid: 9aa959960fff2014d9064643094534f3
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/SceneLoader.unity
-    guid: e92d1d4c15fc07a42b93b5e226dab4fd
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Main Scenes/Showcase.unity
-    guid: 18578a8c82c5c9248a506d55236cae4c
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Main Scenes/TheHouse Demo.unity
-    guid: 9c1e1ef0d125341449211600dac25344
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Example Scenes/Basic/EmptyScenePlayer.unity
-    guid: f68992d4b7e8bc74f9e180eaf57e63d6
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Example Scenes/ScenePresistency/SavingScene01.unity
-    guid: 161be0ba3384e16488c355d809e2d394
-  - enabled: 1
-    path: Assets/Horror FPS KIT/HFPS Assets/Content/Scenes/Example Scenes/ScenePresistency/SavingScene02.unity
-    guid: a7bfff2b296037b4eba8867601e57531
+    path: Assets/Scenes/Test.unity
+    guid: 201a9cc522300f24ab7aa0eb989504d1
   m_configObjects:
-    com.unity.input.settings: {fileID: 11400000, guid: f4687e337c6012f40a487fd66e19f2da,
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}
